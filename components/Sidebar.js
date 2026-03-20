@@ -15,7 +15,7 @@ export default function Sidebar({ activeTab, setActiveTab }) {
     <aside className="sidebar glass-card">
       <div className="brand">
         <div className="logo-container">
-          <img src="/logo.jpg" alt="Logo" className="logo-img" />
+          <img src="/ai-car-parking/logo.jpg" alt="Logo" className="logo-img" />
         </div>
         <h2 className="gradient-text">ParkAI</h2>
       </div>
